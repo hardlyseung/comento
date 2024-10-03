@@ -1,0 +1,6 @@
+[
+  { 
+    "CondiOon": { "KeyPrefixEquals": "docs/" },
+    "Redirect": { "ReplaceKeyPrefixWith": "documents/" } 
+  }
+]
